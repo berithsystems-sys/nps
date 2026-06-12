@@ -1,5 +1,4 @@
-# ✝ NDPN Mission Portal
-### Nekzonna Dohkan Pulpit Nasepna
+# ✝ NDPN Ginom's
 
 A full-stack mission loan management system built with Node.js + Express + SQL.js.
 
